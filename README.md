@@ -16,7 +16,7 @@ For detailed documentation around the whole project, please refer to the `README
 
 # Getting Started
 
-Below are the instructions on how to install, configure and generate a PKaminario K2 Array As Built Report
+Below are the instructions on how to install, configure and generate a Kaminario K2 Array As Built Report
 
 ## Pre-requisites
 The following PowerShell modules are required for generating a Kaminario K2 Array As Built report.
